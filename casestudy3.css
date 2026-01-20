@@ -1,0 +1,10 @@
+.home{
+    display: flex;
+    background-color: darkkhaki;
+}
+.nav{
+    padding-top: 50px;
+}
+.nav a{
+    padding-right: 20px;
+}
